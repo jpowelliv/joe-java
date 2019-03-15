@@ -1,0 +1,23 @@
+body  {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: greenyellow;
+  
+}
+#header {
+  padding: 0px; margin: 0px;
+  hieght: 75px;
+  width: 100%;
+  background-color: black;
+  color: 	#FF8C00;
+  text-align: right;
+  position: fixed;
+  top: 0px; left: 0px;
+  z-index: 1;
+}
+
+#footer{
+  height: 75px;
+  border-top: dashed 1px #000;
+}
